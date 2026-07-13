@@ -1,0 +1,1 @@
+# EN-stripping-solution-Health-Indicator
