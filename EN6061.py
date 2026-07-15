@@ -54,4 +54,4 @@ if submitted:
         import streamlit as st
 
 st.title("EN‑AL6061 Condition Assessment")
-st.write("Welcome! This app analyzes aluminum alloy conditions based on input parameters.")
+st.write("Welcome! This app analyzes EN stripping solution conditions based on input parameters.")
