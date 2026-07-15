@@ -45,7 +45,7 @@ if submitted:
     colour = {"Continue operation": "green",
               "Continue with monitoring": "blue",
               "Regeneration recommended": "orange",
-              "Dispose": "red"}[decision]
+              "Unsuitable for use. Send for further processing": "red"}[decision]
     st.markdown(f"### :{colour}[{decision}]")
 
     with st.expander("Show intermediate values"):
