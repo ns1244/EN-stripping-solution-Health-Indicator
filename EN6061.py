@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="EHI Assessment", layout="centered")
 st.title("Electrolyte Health Index")
-st.caption("Phosphate-based nickel stripping — batch assessment tool")
+st.caption("Assess and monitor the condition of phosphate-based nickel stripping solution across cycles."
 
 with st.form("inputs"):
     st.subheader("Solution parameters")
